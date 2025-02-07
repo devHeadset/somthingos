@@ -3,9 +3,9 @@
 somthingos is my weird suckless arch distro
 using dwm, st dmenu etc
 
-* TODO
-** the arch iso
-** archiso installer
-** improve dwm and st
+TODO
+- the arch iso
+- archiso installer
+- improve dwm and st
 
 

@@ -1,0 +1,7 @@
+xrandr -s 1920x1080
+dwmblocks & 
+feh --bg-fill ~/.sk/wallpapers/wallpaper.png
+xcompmgr &
+conky -c ~/.config/conky/config.conf
+exec dwm
+

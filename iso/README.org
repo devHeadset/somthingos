@@ -1,0 +1,5 @@
+#+TITLE: archiso for somthingos
+
+* what is this folder?
+this is the installer for somthingos
+

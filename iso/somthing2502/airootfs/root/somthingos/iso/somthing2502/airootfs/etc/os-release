@@ -1,0 +1,8 @@
+NAME="SomthingOS"
+PRETTY_NAME="Somthing OS"
+ID=somthingos
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://somthing.devheadset.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+LOGO=archlinux-logo
